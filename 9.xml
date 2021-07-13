@@ -1,0 +1,20 @@
+<authors>
+ <author id="0">
+  <lastname>Пушкин</lastname>
+  <firstname>Александр</firstname>
+  <middlename>Сергеевич</middlename>
+  <birthdate>Чт июн 6 1799</birthdate>
+ </author>
+ <author id="1">
+  <lastname>Дик</lastname>
+  <firstname>Филип</firstname>
+  <middlename>Киндред</middlename>
+  <birthdate>Вс дек 16 1928</birthdate>
+ </author>
+ <author id="2">
+  <lastname>Лермонтов</lastname>
+  <firstname>Михаил</firstname>
+  <middlename>Юрьевич</middlename>
+  <birthdate>Вт июл 27 1841</birthdate>
+ </author>
+</authors>
